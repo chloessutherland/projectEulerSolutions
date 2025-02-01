@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Projects\\Visual Studio\\Project Euler\\Problem5_SmallestMultiple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303C2761-DF12-4671-97F8-13475046DAAC}|Problem5_SmallestMultiple_GreatestCommonFactorMethod\\Problem5_SmallestMultiple_GreatestCommonFactorMethod.csproj|s:\\projects\\visual studio\\project euler\\problem5_smallestmultiple\\problem5_smallestmultiple_greatestcommonfactormethod\\greatestcommonfactormethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303C2761-DF12-4671-97F8-13475046DAAC}|Problem5_SmallestMultiple_GreatestCommonFactorMethod\\Problem5_SmallestMultiple_GreatestCommonFactorMethod.csproj|solutionrelative:problem5_smallestmultiple_greatestcommonfactormethod\\greatestcommonfactormethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA2A08B-D90A-4690-8D70-F7588A063651}|Problem5_SmallestMultiple_PrimeFactorization\\Problem5_SmallestMultiple_PrimeFactorizationMethod.csproj|s:\\projects\\visual studio\\project euler\\problem5_smallestmultiple\\problem5_smallestmultiple_primefactorization\\primefactorizationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA2A08B-D90A-4690-8D70-F7588A063651}|Problem5_SmallestMultiple_PrimeFactorization\\Problem5_SmallestMultiple_PrimeFactorizationMethod.csproj|solutionrelative:problem5_smallestmultiple_primefactorization\\primefactorizationmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE88D9E-3A7F-4CB3-9116-5C577B3322AD}|Problem5SmallestMultiple\\Problem5_SmallestMultiple_BruteForceMethod.csproj|s:\\projects\\visual studio\\project euler\\problem5_smallestmultiple\\problem5smallestmultiple\\bruteforcemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE88D9E-3A7F-4CB3-9116-5C577B3322AD}|Problem5SmallestMultiple\\Problem5_SmallestMultiple_BruteForceMethod.csproj|solutionrelative:problem5smallestmultiple\\bruteforcemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GreatestCommonFactorMethod.cs",
+              "DocumentMoniker": "S:\\Projects\\Visual Studio\\Project Euler\\Problem5_SmallestMultiple\\Problem5_SmallestMultiple_GreatestCommonFactorMethod\\GreatestCommonFactorMethod.cs",
+              "RelativeDocumentMoniker": "Problem5_SmallestMultiple_GreatestCommonFactorMethod\\GreatestCommonFactorMethod.cs",
+              "ToolTip": "S:\\Projects\\Visual Studio\\Project Euler\\Problem5_SmallestMultiple\\Problem5_SmallestMultiple_GreatestCommonFactorMethod\\GreatestCommonFactorMethod.cs",
+              "RelativeToolTip": "Problem5_SmallestMultiple_GreatestCommonFactorMethod\\GreatestCommonFactorMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:52:32.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeFactorizationMethod.cs",
+              "DocumentMoniker": "S:\\Projects\\Visual Studio\\Project Euler\\Problem5_SmallestMultiple\\Problem5_SmallestMultiple_PrimeFactorization\\PrimeFactorizationMethod.cs",
+              "RelativeDocumentMoniker": "Problem5_SmallestMultiple_PrimeFactorization\\PrimeFactorizationMethod.cs",
+              "ToolTip": "S:\\Projects\\Visual Studio\\Project Euler\\Problem5_SmallestMultiple\\Problem5_SmallestMultiple_PrimeFactorization\\PrimeFactorizationMethod.cs",
+              "RelativeToolTip": "Problem5_SmallestMultiple_PrimeFactorization\\PrimeFactorizationMethod.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:38:17.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BruteForceMethod.cs",
+              "DocumentMoniker": "S:\\Projects\\Visual Studio\\Project Euler\\Problem5_SmallestMultiple\\Problem5SmallestMultiple\\BruteForceMethod.cs",
+              "RelativeDocumentMoniker": "Problem5SmallestMultiple\\BruteForceMethod.cs",
+              "ToolTip": "S:\\Projects\\Visual Studio\\Project Euler\\Problem5_SmallestMultiple\\Problem5SmallestMultiple\\BruteForceMethod.cs",
+              "RelativeToolTip": "Problem5SmallestMultiple\\BruteForceMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:17:10.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

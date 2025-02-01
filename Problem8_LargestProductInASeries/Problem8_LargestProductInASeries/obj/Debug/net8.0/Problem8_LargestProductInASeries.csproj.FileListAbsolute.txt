@@ -1,0 +1,14 @@
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\bin\Debug\net8.0\Problem8_LargestProductInASeries.exe
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\bin\Debug\net8.0\Problem8_LargestProductInASeries.deps.json
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\bin\Debug\net8.0\Problem8_LargestProductInASeries.runtimeconfig.json
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\bin\Debug\net8.0\Problem8_LargestProductInASeries.dll
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\bin\Debug\net8.0\Problem8_LargestProductInASeries.pdb
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\obj\Debug\net8.0\Problem8_LargestProductInASeries.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\obj\Debug\net8.0\Problem8_LargestProductInASeries.AssemblyInfoInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\obj\Debug\net8.0\Problem8_LargestProductInASeries.AssemblyInfo.cs
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\obj\Debug\net8.0\Problem8_LargestProductInASeries.csproj.CoreCompileInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\obj\Debug\net8.0\Problem8_LargestProductInASeries.dll
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\obj\Debug\net8.0\refint\Problem8_LargestProductInASeries.dll
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\obj\Debug\net8.0\Problem8_LargestProductInASeries.pdb
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\obj\Debug\net8.0\Problem8_LargestProductInASeries.genruntimeconfig.cache
+S:\Projects\Visual Studio\Project Euler\Problem8_LargestProductInASeries\Problem8_LargestProductInASeries\obj\Debug\net8.0\ref\Problem8_LargestProductInASeries.dll

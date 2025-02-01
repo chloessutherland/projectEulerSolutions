@@ -1,0 +1,14 @@
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\bin\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.exe
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\bin\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.deps.json
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\bin\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.runtimeconfig.json
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\bin\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.dll
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\bin\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.pdb
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.AssemblyInfoInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.AssemblyInfo.cs
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.csproj.CoreCompileInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.dll
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\refint\Problem5_SmallestMultiple_BruteForceMethod.dll
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.pdb
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple_BruteForceMethod.genruntimeconfig.cache
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\ref\Problem5_SmallestMultiple_BruteForceMethod.dll

@@ -1,0 +1,14 @@
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\bin\Debug\net8.0\Problem7_10001stPrime.exe
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\bin\Debug\net8.0\Problem7_10001stPrime.deps.json
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\bin\Debug\net8.0\Problem7_10001stPrime.runtimeconfig.json
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\bin\Debug\net8.0\Problem7_10001stPrime.dll
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\bin\Debug\net8.0\Problem7_10001stPrime.pdb
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\obj\Debug\net8.0\Problem7_10001stPrime.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\obj\Debug\net8.0\Problem7_10001stPrime.AssemblyInfoInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\obj\Debug\net8.0\Problem7_10001stPrime.AssemblyInfo.cs
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\obj\Debug\net8.0\Problem7_10001stPrime.csproj.CoreCompileInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\obj\Debug\net8.0\Problem7_10001stPrime.dll
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\obj\Debug\net8.0\refint\Problem7_10001stPrime.dll
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\obj\Debug\net8.0\Problem7_10001stPrime.pdb
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\obj\Debug\net8.0\Problem7_10001stPrime.genruntimeconfig.cache
+S:\Projects\Visual Studio\Project Euler\Problem7_10001stPrime\Problem7_10001stPrime\obj\Debug\net8.0\ref\Problem7_10001stPrime.dll

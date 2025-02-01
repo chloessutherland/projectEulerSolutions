@@ -1,0 +1,14 @@
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple.AssemblyInfoInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple.AssemblyInfo.cs
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple.csproj.CoreCompileInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\bin\Debug\net8.0\Problem5_SmallestMultiple.exe
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\bin\Debug\net8.0\Problem5_SmallestMultiple.deps.json
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\bin\Debug\net8.0\Problem5_SmallestMultiple.runtimeconfig.json
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\bin\Debug\net8.0\Problem5_SmallestMultiple.dll
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\bin\Debug\net8.0\Problem5_SmallestMultiple.pdb
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple.dll
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\refint\Problem5_SmallestMultiple.dll
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple.pdb
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\Problem5_SmallestMultiple.genruntimeconfig.cache
+S:\Projects\Visual Studio\Project Euler\Problem5_SmallestMultiple\Problem5SmallestMultiple\obj\Debug\net8.0\ref\Problem5_SmallestMultiple.dll

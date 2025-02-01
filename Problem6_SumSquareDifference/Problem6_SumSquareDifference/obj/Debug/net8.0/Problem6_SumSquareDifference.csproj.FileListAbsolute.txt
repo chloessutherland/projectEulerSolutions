@@ -1,0 +1,14 @@
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\bin\Debug\net8.0\Problem6_SumSquareDifference.exe
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\bin\Debug\net8.0\Problem6_SumSquareDifference.deps.json
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\bin\Debug\net8.0\Problem6_SumSquareDifference.runtimeconfig.json
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\bin\Debug\net8.0\Problem6_SumSquareDifference.dll
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\bin\Debug\net8.0\Problem6_SumSquareDifference.pdb
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\obj\Debug\net8.0\Problem6_SumSquareDifference.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\obj\Debug\net8.0\Problem6_SumSquareDifference.AssemblyInfoInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\obj\Debug\net8.0\Problem6_SumSquareDifference.AssemblyInfo.cs
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\obj\Debug\net8.0\Problem6_SumSquareDifference.csproj.CoreCompileInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\obj\Debug\net8.0\Problem6_SumSquareDifference.dll
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\obj\Debug\net8.0\refint\Problem6_SumSquareDifference.dll
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\obj\Debug\net8.0\Problem6_SumSquareDifference.pdb
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\obj\Debug\net8.0\Problem6_SumSquareDifference.genruntimeconfig.cache
+S:\Projects\Visual Studio\Project Euler\Problem6_SumSquareDifference\Problem6_SumSquareDifference\obj\Debug\net8.0\ref\Problem6_SumSquareDifference.dll

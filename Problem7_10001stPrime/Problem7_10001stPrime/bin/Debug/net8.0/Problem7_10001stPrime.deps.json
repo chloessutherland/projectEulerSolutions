@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Problem7_10001stPrime/1.0.0": {
+        "runtime": {
+          "Problem7_10001stPrime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem7_10001stPrime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

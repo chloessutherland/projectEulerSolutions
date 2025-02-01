@@ -1,0 +1,14 @@
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\bin\Debug\net8.0\Problem2.exe
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\bin\Debug\net8.0\Problem2.deps.json
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\bin\Debug\net8.0\Problem2.runtimeconfig.json
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\bin\Debug\net8.0\Problem2.dll
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\bin\Debug\net8.0\Problem2.pdb
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\obj\Debug\net8.0\Problem2.GeneratedMSBuildEditorConfig.editorconfig
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\obj\Debug\net8.0\Problem2.AssemblyInfoInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\obj\Debug\net8.0\Problem2.AssemblyInfo.cs
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\obj\Debug\net8.0\Problem2.csproj.CoreCompileInputs.cache
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\obj\Debug\net8.0\Problem2.dll
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\obj\Debug\net8.0\refint\Problem2.dll
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\obj\Debug\net8.0\Problem2.pdb
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\obj\Debug\net8.0\Problem2.genruntimeconfig.cache
+S:\Projects\Visual Studio\Project Euler\Problem2\Problem2\obj\Debug\net8.0\ref\Problem2.dll
